@@ -1,0 +1,3 @@
+algorithm,limit_per_minute,window_seconds,requests_before,accepted_before,requests_after,accepted_after,rejected_after,total_accepted,total_rejected
+fixed,5,60,5,5,5,5,0,10,0
+sliding,5,60,5,5,5,0,5,5,5

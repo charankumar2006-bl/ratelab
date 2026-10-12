@@ -1,0 +1,3 @@
+algorithm,total,accepted,rejected,other,rejection_rate_percent
+fixed,20,5,15,0,75.00
+sliding,20,5,15,0,75.00

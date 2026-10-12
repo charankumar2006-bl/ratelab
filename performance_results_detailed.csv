@@ -1,0 +1,4 @@
+timestamp,algorithm,total,accepted,rejected,other,rejection_rate_percent,elapsed_seconds,throughput_responses_per_second,mean_latency_ms,p50_latency_ms,p95_latency_ms,successful_mean_latency_ms,successful_p95_latency_ms,rejected_mean_latency_ms,rejected_p95_latency_ms
+2026-10-11T20:44:58,fixed,100,5,95,0,95.0,0.115147,868.45,17.321,16.354,33.632,6.097,8.023,17.912,34.071
+2026-10-12T18:57:44,fixed,100,5,95,0,95.0,0.122054,819.31,19.493,19.722,27.955,20.801,33.454,19.424,27.955
+2026-10-12T18:58:40,sliding,100,5,95,0,95.0,0.119852,834.36,17.29,16.958,26.268,6.39,7.508,17.864,26.592
