@@ -1,16 +1,23 @@
-# Go
-bin/
-*.exe
+# Compiled binaries
+/backend
+/gateway
+/bin/
 
-# Environment
+# Environment variables and secrets
 .env
+.env.*
+!.env.example
 
-# IDE
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor files
 .vscode/
 .idea/
 
-# OS
-.DS_Store
-
-# Results
-results/
+# Temporary files
+*.log
+*.tmp
